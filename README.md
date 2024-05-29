@@ -39,7 +39,7 @@ Our main objective is to complete all main functionalities of the Milkify web ap
 - JavaScript
 
 ## Features
-- Homepage - The Landing Page
+- Homepage -The Landing Page
 - Login/Signup Page 
 - Jwt(tokens) for Authentication
 - Admin user Dashboard
